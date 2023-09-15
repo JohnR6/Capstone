@@ -1,0 +1,71 @@
+pizza_id,order_id,size,style,toppings_id
+1,1,small,thin crust,1
+2,1,small,regular,2
+3,1,small,stuffed crust,3
+4,2,small,thin crust,4
+5,3,small,thin crust,5
+6,3,small,thin crust,6
+7,3,small,thin crust,7
+8,4,medium,thin crust,8
+9,5,medium,thin crust,9
+10,6,large,regular,10
+11,7,large,regular,11
+12,8,medium,regular,11
+13,9,medium,regular,11
+14,10,small,regular,11
+15,11,small,regular,11
+16,12,small,regular,12
+17,13,small,regular,13
+18,14,medium,regular,14
+19,15,medium,regular,15
+20,15,large,regular,16
+21,15,large,regular,17
+22,16,medium,regular,18
+23,17,small,regular,18
+24,17,medium,regular,20
+25,18,medium,regular,21
+26,19,large,regular,22
+27,20,large,regular,23
+28,21,large,regular,24
+29,22,large,regular,25
+30,23,small,regular,26
+31,24,medium,regular,27
+32,25,medium,regular,28
+33,25,large,regular,29
+34,25,large,regular,4
+35,25,medium,regular,4
+36,25,medium,regular,4
+37,26,small,regular,4
+38,27,small,regular,4
+39,28,small,regular,1
+40,29,small,stuffed crust,1
+41,30,medium,stuffed crust,1
+42,31,medium,stuffed crust,1
+43,32,medium,stuffed crust,1
+44,33,small,stuffed crust,1
+45,34,small,stuffed crust,1
+46,35,small,stuffed crust,1
+47,36,small,stuffed crust,1
+48,37,small,stuffed crust,1
+49,38,small,regular,30
+50,39,small,regular,19
+51,40,small,regular,19
+52,41,small,regular,19
+53,42,large,regular,19
+54,43,large,regular,19
+55,44,large,regular,17
+56,45,large,stuffed crust,17
+57,46,large,stuffed crust,17
+58,47,large,stuffed crust,17
+59,48,large,stuffed crust,17
+60,49,large,stuffed crust,17
+61,50,small,thin crust,17
+62,51,small,thin crust,17
+63,52,medium,thin crust,17
+64,53,medium,thin crust,17
+65,54,medium,thin crust,17
+66,55,small,regular,17
+67,55,small,regular,17
+68,55,small,stuffed crust,17
+69,55,small,stuffed crust,17
+70,55,large,stuffed crust,17
